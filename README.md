@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 <h1> 안녕하세요 </h1>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={dgs2288})](https://solved.ac/{dgs2288})
+
 <!--
 **challduck/challduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 Here are some ideas to get you started:
 
